@@ -21,10 +21,5 @@ public class Main {
         
         
         // print elements
-        for(int i = 2; i < isPrime.length; i++) {
-            if(isPrime[i] == true) {
-                System.out.print(i + " ");
-            }
-        }
     }
 }
